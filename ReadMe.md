@@ -13,5 +13,5 @@ All accessible via a colorful, menu-driven CLI.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ElGabir/web-security-toolkit.git
-cd web-security-toolkit
+git clone https://github.com/ElGabir/fuzzy-toolkit.git
+cd Fuzzy-toolkit
